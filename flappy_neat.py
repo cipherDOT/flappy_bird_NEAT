@@ -302,4 +302,4 @@ if __name__ == "__main__":
 # @TechWithTim --> youtube channel
 # To learn more about AIs and the genetic algorithm.
 # I did not write this on my own.
-# I used this to learn people who actually know what they are doing.
+# I used this to learn from people who actually know what they are doing.
